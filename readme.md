@@ -12,3 +12,7 @@ Your next task is to implement both Dijkstra’s Algorithm and the A* Algorithm.
 
 Heuristics(10pts)
 Looking solely at the A* algorithm, design and implement at least two heuristics for your ﬁrst graph. The heuristic you used in the previous portion of the assignment can count as one of these two. A few options are random, hand-authored, Manhattan distance, a constant guess, or euclidean distance. These are not the only possibilities, be creative. These heuristics don’t need to work for your second, larger graph.
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/Kshitij-Patil/Game-AI-Path-Finding-and-Path-Following/master/images/pathfindandfollow.png" width="480" height="360" border="10">
+ </p>
